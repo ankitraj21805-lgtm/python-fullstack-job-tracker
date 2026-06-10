@@ -6,7 +6,9 @@ This project helps track job applications, statuses, companies, roles, notes, an
 
 ## 🚀 Live Demo
 
-Add your live deployment link here after deploying.
+🔗 [View Live App](https://python-fullstack-job-tracker.onrender.com)
+
+
 
 ## 📌 Why This Project Matters
 
